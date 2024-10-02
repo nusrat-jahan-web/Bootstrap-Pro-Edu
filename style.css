@@ -180,7 +180,7 @@ element.style {
 
 .slide_img img{
     height: 300px;
-    width:300px;
+    width:550px;
     
 
 }
@@ -239,7 +239,7 @@ element.style {
 .trusted_img{
    
     display: flex;
-    gap:20px !important;
+    gap:30px !important;
     justify-content: center;
     align-items: center;
   
