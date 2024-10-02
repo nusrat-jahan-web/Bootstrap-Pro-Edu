@@ -239,7 +239,7 @@ element.style {
 .trusted_img{
    
     display: flex;
-    gap:30px !important;
+    gap:20px !important;
     justify-content: center;
     align-items: center;
   
@@ -248,7 +248,7 @@ element.style {
 
 .trusted_img img{
     height: 25px;
-    width: 150px;
+    width: 140px;
 }
 .footer_bg{
     background: black;
