@@ -199,7 +199,7 @@ element.style {
 
 .slick-prev::before,
 .slick-next::before {
-    color:rgb(0, 0, 255);
+    color:rgb(13, 130, 13);
     font-size: 2.5rem;
 }
 
